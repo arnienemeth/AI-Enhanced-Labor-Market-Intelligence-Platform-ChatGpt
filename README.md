@@ -18,23 +18,6 @@
 
 ---
 
-## 📊 Dashboard Preview
-
-<div align="center">
-
-### Executive Summary
-![Executive Summary](docs/images/executive_summary.png)
-
-### Skills Analysis
-![Skills Analysis](docs/images/skills_analysis.png)
-
-### Salary Insights
-![Salary Insights](docs/images/salary_insights.png)
-
-### AI-Powered Extraction
-![AI Insights](docs/images/ai_insights.png)
-
-</div>
 
 ---
 
