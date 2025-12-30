@@ -23,16 +23,16 @@
 <div align="center">
 
 ### Executive Summary
-![Executive Summary](docs/images/page1_executive_summary.png)
+![Executive Summary](docs/images/executive_summary.png)
 
 ### Skills Analysis
-![Skills Analysis](docs/images/page2_skills_analysis.png)
+![Skills Analysis](docs/images/skills_analysis.png)
 
 ### Salary Insights
-![Salary Insights](docs/images/page3_salary_insights.png)
+![Salary Insights](docs/images/salary_insights.png)
 
 ### AI-Powered Extraction
-![AI Insights](docs/images/page4_ai_insights.png)
+![AI Insights](docs/images/ai_insights.png)
 
 </div>
 
