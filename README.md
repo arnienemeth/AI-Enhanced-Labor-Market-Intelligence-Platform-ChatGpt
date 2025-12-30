@@ -491,7 +491,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Arnold Nemeth**
 
-[![LinkedIn](https://www.linkedin.com/in/arnold-n%C3%A9meth-3b482597/)
+🔗 [LinkedIn](https://www.linkedin.com/in/arnold-n%C3%A9meth-3b482597/)
 [![GitHub](https://github.com/arnienemeth)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arni.nemeth@gmail.com)
 
